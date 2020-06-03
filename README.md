@@ -1,4 +1,4 @@
-# Pneumonia_Detection_from_Chest_Xray
+# Pneumonia Detection from Chest Xray
 
 ## Project Overview
 
