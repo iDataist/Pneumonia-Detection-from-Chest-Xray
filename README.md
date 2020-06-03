@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-I analyzed data from the NIH Chest X-ray Dataset and trained a CNN to classify a given chest x-ray for the presence or absence of pneumonia. I generaed a model that can predict the presence of pneumonia with human radiologist-level accuracy. I also prepared a document for submission to the FDA for 510(k) clearance as software as a medical device. As part of the submission preparation, I described the model, the data that it was trained on, and a validation plan that meets FDA criteria.
+I analyzed data from the NIH Chest X-ray Dataset and trained a CNN to classify a given chest x-ray for the presence or absence of pneumonia. I generated a model that can predict the presence of pneumonia with human radiologist-level accuracy. I also prepared a document for submission to the FDA for 510(k) clearance as software as a medical device. As part of the submission preparation, I described the model, the data that it was trained on, and a validation plan that meets FDA criteria.
 
 The NIH Chest X-ray Dataset includes 112,000 chest x-rays acquired from 30,000 patients with clinical labels for each image that were extracted from their accompanying radiology reports.
 
@@ -20,6 +20,6 @@ The NIH Chest X-ray Dataset includes 112,000 chest x-rays acquired from 30,000 p
 ## Project Steps
 
 - Exploratory Data Analysis
-- Building and Training The Model
+- Building and Training the Model
 - Clinical Workflow Integration
 - FDA Preparation
